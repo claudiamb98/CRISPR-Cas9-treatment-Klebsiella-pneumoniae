@@ -5,6 +5,9 @@
 
 #Description:
   ##This R project contains all the raw data for the multiple experiments. Cell densities are in CFU/mL units.
+  ##The CRISPR-Cas9 Klebsiella pneumoniae project contains both a Rawdata folder which contains the excel files for the multiple datasets and a Scripts folder which contains all the scripts used to run the multiple datasets and all the data analysis.
+  ##Additionally, the DATA.zip contains all the Rproject together with the multiple Rscripts and excel files. So it can all be download together and run.
+  
 
 #Files:
   ## Fig1.xlsx has the data for the 1:1 matings and the data analysis can be find in Fig1Stats.R 
